@@ -1,0 +1,13 @@
+name = "VTMCraft"
+author = "VTMCraft"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8f6326c60e9bbd07cca1dd947b21aff74d5c260d9664d559441648ba3f440e82"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.20.1"

@@ -1,0 +1,13 @@
+name = "Carpet TCTC Addition"
+filename = "CarpetTCTCAddition-all-2.2.201+8009659-stable.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vbBQ6dVH/versions/P8Tycu4R/CarpetTCTCAddition-all-2.2.201%2B8009659-stable.jar"
+hash-format = "sha1"
+hash = "c076c34525dc9a3d428ff9a2621dcd34163d8952"
+
+[update]
+[update.modrinth]
+mod-id = "vbBQ6dVH"
+version = "P8Tycu4R"

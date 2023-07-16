@@ -1,0 +1,13 @@
+name = "No TNT Griefing"
+filename = "no-tnt-griefing-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JdECkpsK/versions/koo73GN7/no-tnt-griefing-1.20.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "572432425299125af9ecc1f199c7272452a00377"
+
+[update]
+[update.modrinth]
+mod-id = "JdECkpsK"
+version = "koo73GN7"

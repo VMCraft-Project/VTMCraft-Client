@@ -1,0 +1,13 @@
+name = "Sword Parry"
+filename = "frycparry-4.1.1+1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4eb29747c84045749b8fa1fd425616f99cb3ada0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4641582
+project-id = 686468

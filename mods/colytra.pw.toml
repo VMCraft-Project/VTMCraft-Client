@@ -1,0 +1,13 @@
+name = "Colytra"
+filename = "colytra-fabric-6.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ulY7WPQy/versions/8Cil9gEN/colytra-fabric-6.2.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "2e89e39ac948b97cf5c01f8653fe91753ec19d6c"
+
+[update]
+[update.modrinth]
+mod-id = "ulY7WPQy"
+version = "8Cil9gEN"

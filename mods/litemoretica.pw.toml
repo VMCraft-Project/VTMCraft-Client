@@ -1,0 +1,13 @@
+name = "Litemoretica"
+filename = "litemoretica-mc1.20.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OYR5DMCo/versions/qpEHqetx/litemoretica-mc1.20.1-1.2.1.jar"
+hash-format = "sha1"
+hash = "6081454e3ba308b0289838f6e5a4c76067116bdd"
+
+[update]
+[update.modrinth]
+mod-id = "OYR5DMCo"
+version = "qpEHqetx"
